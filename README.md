@@ -6,7 +6,7 @@
 
 ```bash
 # klona projetet
-git clone https://github.com/wendymermet-lgtm/ML--Grupp-6.git
+git clone https://github.com/KevinCJohansson/ML-CaliforniaHousing.git
 
 # Skapa och aktivera virtuell miljö
 python -m venv .venv
